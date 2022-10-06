@@ -1,3 +1,3 @@
 # hr-management
 
-Simple hr management web application server with Spring Boot and Kotlin
+Simple hr management web application server made with Spring Boot and Kotlin
